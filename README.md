@@ -1,6 +1,8 @@
 # React Digital Business Card
 This repository is for a digital business card built with react and bootstrap. This react app was initialized with create-react-app and used node to initialize bootstrap. 
 
+![image of my react-digital-card, including a headshot and additional information about me, Katie Brown.](https://github.com/katieleebrown/react-digital-card/blob/main/screenshot.jpg?raw=true)
+
 # Tech Stack
 This is a React and Boostrap project, with some additional HTML, CSS, and JS. 
 
