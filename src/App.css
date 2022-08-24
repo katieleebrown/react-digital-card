@@ -1,0 +1,67 @@
+.bg-secondary {
+  background-color: #1A1B21 !important;
+
+}
+
+.bg-dark {
+  background-color: #161619 !important;
+}
+
+.btn-primary {
+  background-color: #5093E2 !important;
+}
+
+.card {
+  width: 30%;
+  min-width: 300px;
+  max-width: 400px;
+  margin: auto;
+  margin-top: 5px;
+}
+
+h1 {
+  padding-top: 30px;
+  font-size: 2.3rem;
+}
+
+.jobTitle {
+  color: #F3BF99;
+}
+
+.email {
+  text-decoration: none;
+  color: white;
+  font-size: small;
+}
+
+.btn:hover {
+  border: 1px solid white;
+}
+
+.header-btn {
+  border: 2px solid #1A1B21 !important;
+}
+
+.header-btn:hover {
+  border: 2px solid white !important;
+}
+
+h4 {
+  font-size: 1.4rem;
+}
+
+p {
+  font-size: .8rem;
+}
+
+
+
+.footer-btn {
+  padding: 2px 4px 0px 4px;
+}
+
+.footer-icon {
+  font-size: 35px !important;
+  padding: 0px;
+  color: #918E9B;
+}
